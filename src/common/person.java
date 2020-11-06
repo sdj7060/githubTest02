@@ -3,6 +3,8 @@ package common;
 public class person {
 	String name;
 	int age;
+	int jumin;
+	
 	public person(String name, int age) {
 		super();
 		this.name = name;
